@@ -1,2 +1,2 @@
 # Maji-Ndogo-Microsoft-Power-BI
-This will host the Power BI file on my portfolio for this project.
+Please find the file described on my medium page and porfolio.
